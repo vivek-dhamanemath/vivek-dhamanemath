@@ -29,7 +29,7 @@ Here are my list of repositories for Java and Spring-related technologies:
 - [**Spring Core**](https://github.com/stars/vivek-dhamanemath/lists/spring-core)  
 - [**Spring MVC**](https://github.com/stars/vivek-dhamanemath/lists/spring-mvc)  
 - [**Spring Boot**](https://github.com/stars/vivek-dhamanemath/lists/spring-boot)
-- [**Academic Projects**](https://github.com/stars/vivek-dhamanemath/lists/spring-boot) 
+- [**Academic Projects**](https://github.com/stars/vivek-dhamanemath/lists/academic-projects) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vivek-dhamanemath&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
