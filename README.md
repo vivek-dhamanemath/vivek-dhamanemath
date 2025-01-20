@@ -1,5 +1,5 @@
 # 💫 About Me:
-# My Portfolio: ([https://instagram.com/vivek_jd_155](https://vivek-dhamanemath.github.io/)) 
+# My Portfolio: https://vivek-dhamanemath.github.io/
 🔭 I’m currently working on my portfolio website  
 👯 I’m looking to collaborate on GSoC organisations  
 🌱 I’m currently learning Spring Boot  
