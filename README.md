@@ -39,7 +39,7 @@
 # 📂 My Learning Resources
 Here are my list of repositories for Java and Spring-related technologies:
 
-- [**JDBC**](https://github.com/stars/vivek-dhamanemath/lists/spring-boot)  
+- [**JDBC**](https://github.com/stars/vivek-dhamanemath/lists/jdbc)  
 - [**Servlet**](https://github.com/stars/vivek-dhamanemath/lists/servlet)  
 - [**Hibernate**](https://github.com/stars/vivek-dhamanemath/lists/hibernate)  
 - [**Spring Core**](https://github.com/stars/vivek-dhamanemath/lists/spring-core)  
