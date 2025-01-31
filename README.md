@@ -1,8 +1,18 @@
-# 💫 About Me:
-# My Portfolio: https://vivek-dhamanemath.github.io/
-🔭 I’m currently working on my portfolio website  
+# 👋 Hey everyone! Welcome to my GitHub profile!
+🔭 I’m currently working on my Spring Boot project  
 👯 I’m looking to collaborate on GSoC organisations  
 🌱 I’m currently learning Spring Boot  
+💡 I’m passionate about building scalable and user-centric web applications  
+🚀 I have hands-on experience with Java, Spring MVC, and REST APIs  
+📊 Skilled in database management using MySQL and Hibernate  
+🛠️ Proficient in DevOps tools like Jenkins, Git, and GitHub  
+🎯 Strong believer in Agile methodologies for efficient project delivery  
+📚 Always eager to learn new technologies and improve my skill set  
+📸 In my free time, I enjoy playing chess and exploring photography  
+🌟 Open to new opportunities and challenges in the tech world    
+
+# My Portfolio: https://vivek-dhamanemath.github.io/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_jd_155) 
